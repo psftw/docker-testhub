@@ -1,2 +1,2 @@
 from busybox:latest
-volume /data-master
+volume /data-release-1.0
