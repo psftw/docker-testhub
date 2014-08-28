@@ -1,2 +1,2 @@
 from busybox:latest
-volume /data-master-2.0RC
+volume /data-master-2.0RC2
